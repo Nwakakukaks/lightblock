@@ -1,0 +1,13 @@
+{
+  "name": "blockfabric-contract-templates",
+  "version": "1.0.0",
+  "description": "Smart Contracrt Templates for Block Fabric",
+  "main": "index.ts",
+  "types": "index.d.ts",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
