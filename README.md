@@ -4,7 +4,7 @@
 
 **Project Goal**: We want to give anyone the ability to effortlessly create, deploy, manage, and gain insights into their smart contracts. 
 
-**Project Website**: [website]()
+**Project Website**: [website](https://lightblock-omega.vercel.app/)
 
 **Please note**: This alpha version of the application is for testing and development purposes only. The final version may differ significantly in terms of features, appearance, and functionality.
 
@@ -83,7 +83,7 @@ While we strive to keep the majority of features free so anyone can experience a
 ### Process Flow
 
 <p align="center">
-    <img width="600px" src="docs/diagrams/lightblock-flow.drawio.png" alt="">
+    <img width="600px" src="docs/diagrams/lightblock-flow-diagram.drawio.png" alt="">
 </p>
 
 #### Connect Wallet & Handshaking
