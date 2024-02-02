@@ -61,7 +61,7 @@ While we strive to keep the majority of features free so anyone can experience a
 ### Architecture Overview
 
 <p align="center">
-    <img width="600px" src="docs/diagrams/LightBlock-architecture.drawio.png" alt="">
+    <img width="600px" src="docs/diagrams/lightblock-architecture.drawio.png" alt="">
 </p>
 
 #### Web Application & APIs
@@ -83,7 +83,7 @@ While we strive to keep the majority of features free so anyone can experience a
 ### Process Flow
 
 <p align="center">
-    <img width="600px" src="docs/diagrams/LightBlock-flow.drawio.png" alt="">
+    <img width="600px" src="docs/diagrams/lightblock-flow.drawio.png" alt="">
 </p>
 
 #### Connect Wallet & Handshaking
@@ -132,12 +132,6 @@ While we strive to keep the majority of features free so anyone can experience a
     <img width="600px" src="docs/screenshots/LightBlock-contract.png" alt="About Screenshot">
 </p>
 
-<p align="center">
-    <img width="600px" src="docs/screenshots/LightBlock-details.png" alt="About Screenshot">
-</p>
 
-<p align="center">
-    <img width="600px" src="docs/screenshots/LightBlock-token.png" alt="About Screenshot">
-</p>
 
 
