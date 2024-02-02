@@ -1,6 +1,6 @@
-# LightBlock
+## LightBlock - Built Lightlink gasless hackathon '24
 
-## LightBlock simplifies creating, compiling, deploying and managing smart contracts.
+### LightBlock simplifies creating, compiling, deploying and managing smart contracts.
 
 **Project Goal**: We want to give anyone the ability to effortlessly create, deploy, manage, and gain insights into their smart contracts. 
 
