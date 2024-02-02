@@ -62,7 +62,7 @@ const SideBar = ({
     <>
       <div
         id="sidebar-wrapper"
-        style={{ marginLeft: `${isOpen ? '0' : '-360px'}` }}
+        style={{ marginLeft: `${isOpen ? '0' : '-300px'}` }}
       >
         <div className="sidebar">
           <a href="/">

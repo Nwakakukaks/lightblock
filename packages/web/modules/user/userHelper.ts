@@ -15,7 +15,7 @@ export const authenticateUser = async (
   try {
     let signature = '';
     if (blockchain === Blockchains.Lightlink) {
-      signature = await signSignature('Blocks Login');
+      signature = await signSignature('LightBlock Login');
     } else {
       // Randomize signature to avoid predictability
       signature = generateUUID();

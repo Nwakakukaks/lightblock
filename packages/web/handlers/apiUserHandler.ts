@@ -23,7 +23,7 @@ export const apiSignInUser = async (
     const { blockchain, walletAddress, signature } = params;
 
     if (blockchain === Blockchains.Lightlink) {
-      const message = 'Blocks Login';
+      const message = 'LightBlock Login';
       const isSignatureValid = verifySignature(
         message,
         signature,

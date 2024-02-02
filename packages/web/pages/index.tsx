@@ -94,10 +94,10 @@ const MainLanding: NextPage = () => {
             style={{ minHeight: 'auto' }}
           >
             <Col md={12} sm={12}>
-              <h2 className="section-heading">Build with No Code Templates</h2>
+              <h2 className="section-heading">Build on Lightlink with No Code Templates</h2>
               <p className="section-subheading">
-                Build your contract from a growing collection of preset
-                templates you can use and customize
+                Get started building on lightlink from our growing collection of preset
+                templates you can customize to suit your Dapp needs
               </p>
             </Col>
           </Row>
