@@ -101,12 +101,13 @@ While we strive to keep the majority of features free so anyone can experience a
 
 ## Project Roadmap
 
-**Q2 2023**
+**Q1 2024**
 - Project inception, planning and prototyping
 - MVP product engineering and development
+- More templates from community 
 - Beta launch on mainnet
 
-**Q3 & Q4 2023**
+**Q2 & Q3 2023**
 - Feature implementation and refinements
     - Version management, wallet management, analytics and insights
     - Contract import and custom code
