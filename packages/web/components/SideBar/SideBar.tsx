@@ -96,11 +96,12 @@ const SideBar = ({
           )}
           <a
             onClick={() => handleSelectMenu(SelectedMenu.Dashboard)}
-            style={{ cursor: 'pointer' }}
+            style={{ cursor: 'pointer', marginTop: '30px' }}
           >
             <FlatCardItem
               name="Dashboard"
               description=""
+              
               isSelected={selectedMenu === SelectedMenu.Dashboard}
             />
           </a>

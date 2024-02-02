@@ -1,7 +1,7 @@
 {
-  "name": "blockfabric-contract-templates",
+  "name": "contract-templates",
   "version": "1.0.0",
-  "description": "Smart Contracrt Templates for Block Fabric",
+  "description": "Smart Contracrt Templates ",
   "main": "index.ts",
   "types": "index.d.ts",
   "scripts": {
@@ -9,5 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }

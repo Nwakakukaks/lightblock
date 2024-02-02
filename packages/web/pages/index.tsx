@@ -25,16 +25,15 @@ const MainLanding: NextPage = () => {
               <div className={styles.introContainer}>
                 <h1>
                   <div className={styles.mainTitle}>
-                    Simplified way to build and deploy smart contracts
+                   Build robust and secure Dapps ontop lightlink 
                   </div>
                 </h1>
                 <div className={styles.subtitle}>
-                  Create . Deploy . View Insights
+                  Advanced Dapp manager
                 </div>
                 <p>
-                  Blocks is an advanced blockchain manager that lets
-                  you create, deploy, manage and understand usage for your smart
-                  contracts on LightLink blockchain.
+                  Leverage our contract templates to build robust Dapps quickly on lightlink.
+                  Create, view insights and manage your dapps all from one platform 
                 </p>
                 <div style={{ paddingTop: 30 }}>
                   <Button
@@ -76,7 +75,7 @@ const MainLanding: NextPage = () => {
                     Just connect your wallet and you're good to go.
                   </h3>
                   <p className="paragraph">
-                    Blocks makes dapp creation a breeze. Create smart
+                    LightBlock makes dapp creation a breeze. Create smart
                     contracts using preset templates without code, or create
                     your own custom template. Import existing contracts, manage
                     dapps centrally, and link multiple wallets. Leverage robust
@@ -276,7 +275,7 @@ const MainLanding: NextPage = () => {
                     Be among the first to experience our beta preview and
                     experience a new way of creating and deploying smart
                     contracts. We welcome your valuable feedback as it can
-                    significantly shape Block Fabric's future.{' '}
+                    significantly shape LightBlock's future.{' '}
                   </p>
                 </div>
                 <div>
