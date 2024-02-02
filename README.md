@@ -1,8 +1,8 @@
-## LightBlock - Built Lightlink gasless hackathon '24
+# LightBlock - Built at Lightlink gasless hackathon '24
 
-### LightBlock simplifies creating, compiling, deploying and managing smart contracts.
+## LightBlock simplifies creating, compiling, deploying and managing smart contracts.
 
-**Project Goal**: We want to give anyone the ability to effortlessly create, deploy, manage, and gain insights into their smart contracts. 
+**Project Goal**: We wanted to give anyone the ability to effortlessly create, deploy, manage, and gain insights into their Dapp smart contracts. 
 
 **Project Website**: [website](https://lightblock-omega.vercel.app/)
 
@@ -11,9 +11,7 @@
 
 ## About the Project
 
-**Simplified way to manage smart contracts.**
-
-LightBlock is a user-friendly blockchain app manager for the **Lightink Blockchain** blockchain. It enables effortless creation, deployment, management, and analysis of smart contracts for both beginners and expert blockchain engineers. 
+LightBlock is a user-friendly blockchain app manager for **Lightink** blockchain. It enables effortless creation, deployment, management, and analysis of smart contracts for both beginners and expert blockchain engineers. 
 
 With no-code templates, multiple wallet integrations, and robust analytics, it caters to both beginners and advanced users, democratizing access to blockchain technology and paving the way for a more decentralized digital future.
 
