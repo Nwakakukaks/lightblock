@@ -1,17 +1,17 @@
-# Blocks
+# LightBlock
 
-## Blocks simplifies creating, compiling, deploying and managing smart contracts.
+## LightBlock simplifies creating, compiling, deploying and managing smart contracts.
 
 **Project Goal**: We want to give anyone the ability to effortlessly create, deploy, manage, and gain insights into their smart contracts. 
 
-**Project Website**: [website](https://blocks-xdc.vercel.app/)
+**Project Website**: [website]()
 
 **Please note**: This alpha version of the application is for testing and development purposes only. The final version may differ significantly in terms of features, appearance, and functionality.
 
-# Blocks: Smart Contracts Manager
+# LightBlock: Smart Contracts Manager
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/blocks-connect.png" alt="Intro Screenshot">
+    <img width="600px" src="docs/screenshots/LightBlock-connect.png" alt="Intro Screenshot">
 </p>
 
 ## Inspiration
@@ -19,17 +19,17 @@
 We asked ourselves:
 "How can we make the power of blockchain technology and smart contracts accessible to everyone, regardless of their technical proficiency?"
 
-The inspiration for Blocks comes from the understanding that blockchain technology and smart contracts hold vast potential to revolutionize various aspects of our digital lives. Yet, this potential remains largely untapped because of the technical complexity associated with creating and managing decentralized applications (dApps).
+The inspiration for LightBlock comes from the understanding that blockchain technology and smart contracts hold vast potential to revolutionize various aspects of our digital lives. Yet, this potential remains largely untapped because of the technical complexity associated with creating and managing decentralized applications (dApps).
 
 We wanted to provide a solution that didn't just cater to expert developers, but also to non-technical users who have great ideas but lack the coding skills to translate those ideas into functional dApps.
 
-This led us to the conception of Blocks - a platform designed to enable anyone to effortlessly create, deploy, manage, and gain insights into their smart contracts. 
+This led us to the conception of LightBlock - a platform designed to enable anyone to effortlessly create, deploy, manage, and gain insights into their smart contracts. 
 
 ## About the Project
 
 **Simplified way to manage smart contracts.**
 
-Blocks is a user-friendly blockchain app manager for the **XDC Blockchain** blockchain. It enables effortless creation, deployment, management, and analysis of smart contracts for both beginners and expert blockchain engineers. 
+LightBlock is a user-friendly blockchain app manager for the **Lightink Blockchain** blockchain. It enables effortless creation, deployment, management, and analysis of smart contracts for both beginners and expert blockchain engineers. 
 
 With no-code templates, multiple wallet integrations, and robust analytics, it caters to both beginners and advanced users, democratizing access to blockchain technology and paving the way for a more decentralized digital future.
 
@@ -53,7 +53,7 @@ With no-code templates, multiple wallet integrations, and robust analytics, it c
 - Compile your smart contracts directly on the platform.
 
 **Build in Contract Deployer**
-- Deploy on XDC mainnet and testnet with just a button click.
+- Deploy on Lightink mainnet and testnet with just a button click.
 
 **Coming Soon**
 - For advanced users: Build contracts with custom code.
@@ -68,7 +68,7 @@ With no-code templates, multiple wallet integrations, and robust analytics, it c
     <img width="600px" src="docs/screenshots/screenshot-pricing.png" alt="">
 </p>
 
-While we strive to keep the majority of features free so anyone can experience and use BlockFabric, we plan to introduce a freemium model in the future to sustain the project's development. The platform will still remain free for basic use, and allows unlimited restrictions for paid users.
+While we strive to keep the majority of features free so anyone can experience and use LightBlock, we plan to introduce a freemium model in the future to sustain the project's development. The platform will still remain free for basic use, and allows unlimited restrictions for paid users.
 
 **Community Contributed Templates**: We are also considering to open up our templates collection so other developers can build and share their templates and possibly earn commission from their use.
 
@@ -77,7 +77,7 @@ While we strive to keep the majority of features free so anyone can experience a
 ### Architecture Overview
 
 <p align="center">
-    <img width="600px" src="docs/images/blocks-architecture.png" alt="">
+    <img width="600px" src="docs/images/LightBlock-architecture.png" alt="">
 </p>
 
 #### Web Application & APIs
@@ -99,11 +99,11 @@ While we strive to keep the majority of features free so anyone can experience a
 ### Process Flow
 
 <p align="center">
-    <img width="600px" src="docs/images/blocks-flow.png" alt="">
+    <img width="600px" src="docs/images/LightBlock-flow.png" alt="">
 </p>
 
 #### Connect Wallet & Handshaking
-- Users first connect to XDC Blockchain using a wallet provider like XDCPay. After connecting, user then signs a message to the Authentication API, which verifies the signed message and returns a generated JWT token for access to the Core API.
+- Users first connect to Lightink Blockchain using a wallet provider like metamask. After connecting, user then signs a message to the Authentication API, which verifies the signed message and returns a generated JWT token for access to the Core API.
 
 #### Creating an App
 - Users would create their first app after accessing the platform. An app is a container that will hold and manage the smart contract. Users can create multiple apps.
@@ -133,27 +133,27 @@ While we strive to keep the majority of features free so anyone can experience a
 ## Screenshots
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/blocks-home.png" alt="Intro Screenshot">
+    <img width="600px" src="docs/screenshots/LightBlock-home.png" alt="Intro Screenshot">
 </p>
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/blocks-middle.png" alt="About Screenshot">
+    <img width="600px" src="docs/screenshots/LightBlock-middle.png" alt="About Screenshot">
 </p>
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/blocks-connect.png" alt="About Screenshot">
+    <img width="600px" src="docs/screenshots/LightBlock-connect.png" alt="About Screenshot">
 </p>
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/blocks-contract.png" alt="About Screenshot">
+    <img width="600px" src="docs/screenshots/LightBlock-contract.png" alt="About Screenshot">
 </p>
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/blocks-details.png" alt="About Screenshot">
+    <img width="600px" src="docs/screenshots/LightBlock-details.png" alt="About Screenshot">
 </p>
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/blocks-token.png" alt="About Screenshot">
+    <img width="600px" src="docs/screenshots/LightBlock-token.png" alt="About Screenshot">
 </p>
 
 
