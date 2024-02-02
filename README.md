@@ -8,22 +8,6 @@
 
 **Please note**: This alpha version of the application is for testing and development purposes only. The final version may differ significantly in terms of features, appearance, and functionality.
 
-# LightBlock: Smart Contracts Manager
-
-<p align="center">
-    <img width="600px" src="docs/screenshots/LightBlock-connect.png" alt="Intro Screenshot">
-</p>
-
-## Inspiration
-
-We asked ourselves:
-"How can we make the power of blockchain technology and smart contracts accessible to everyone, regardless of their technical proficiency?"
-
-The inspiration for LightBlock comes from the understanding that blockchain technology and smart contracts hold vast potential to revolutionize various aspects of our digital lives. Yet, this potential remains largely untapped because of the technical complexity associated with creating and managing decentralized applications (dApps).
-
-We wanted to provide a solution that didn't just cater to expert developers, but also to non-technical users who have great ideas but lack the coding skills to translate those ideas into functional dApps.
-
-This led us to the conception of LightBlock - a platform designed to enable anyone to effortlessly create, deploy, manage, and gain insights into their smart contracts. 
 
 ## About the Project
 
@@ -77,7 +61,7 @@ While we strive to keep the majority of features free so anyone can experience a
 ### Architecture Overview
 
 <p align="center">
-    <img width="600px" src="docs/images/LightBlock-architecture.png" alt="">
+    <img width="600px" src="docs/diagrams/LightBlock-architecture.drawio.png" alt="">
 </p>
 
 #### Web Application & APIs
@@ -99,7 +83,7 @@ While we strive to keep the majority of features free so anyone can experience a
 ### Process Flow
 
 <p align="center">
-    <img width="600px" src="docs/images/LightBlock-flow.png" alt="">
+    <img width="600px" src="docs/diagrams/LightBlock-flow.drawio.png" alt="">
 </p>
 
 #### Connect Wallet & Handshaking
@@ -133,15 +117,15 @@ While we strive to keep the majority of features free so anyone can experience a
 ## Screenshots
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/LightBlock-home.png" alt="Intro Screenshot">
+    <img width="600px" src="docs/screenshots/lightblock1.png" alt="Intro Screenshot">
 </p>
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/LightBlock-middle.png" alt="About Screenshot">
+    <img width="600px" src="docs/screenshots/lightblock2.png" alt="About Screenshot">
 </p>
 
 <p align="center">
-    <img width="600px" src="docs/screenshots/LightBlock-connect.png" alt="About Screenshot">
+    <img width="600px" src="docs/screenshots/lightblock.png" alt="About Screenshot">
 </p>
 
 <p align="center">
