@@ -29,7 +29,7 @@ const MainLanding: NextPage = () => {
                   </div>
                 </h1>
                 <div className={styles.subtitle}>
-                  Advanced Dapp manager
+                  Advanced Dapp builder
                 </div>
                 <p>
                   Leverage our contract templates to build robust Dapps quickly on lightlink.
@@ -70,7 +70,7 @@ const MainLanding: NextPage = () => {
               </Col>
               <Col lg={5} md={12} sm={12}>
                 <div className="advanced-description">
-                  <h2>Integrated platform for creating and managing dapps</h2>
+                  <h2>Build, test and ship your Dapps 10x faster </h2>
                   <h3 className="muted">
                     Just connect your wallet and you're good to go.
                   </h3>
@@ -97,7 +97,7 @@ const MainLanding: NextPage = () => {
               <h2 className="section-heading">Build on Lightlink with No Code Templates</h2>
               <p className="section-subheading">
                 Get started building on lightlink from our growing collection of preset
-                templates you can customize to suit your Dapp needs
+                templates you can easily customize to suit your Dapp needs
               </p>
             </Col>
           </Row>
