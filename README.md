@@ -2,7 +2,7 @@
 
 ## LightBlock simplifies creating, compiling, deploying and managing smart contracts.
 
-**Project Goal**: We wanted to give anyone the ability to effortlessly create, deploy, manage, and gain insights into their Dapp smart contracts. 
+**Project Goal**: Building on web3 is hard, building robust and secure Dapps a lot more harder. We wanted to give anyone the ability to quickly build, test and ship their Dapps ontop lightlink regardless of their skill level.
 
 **Project Website**: [website](https://lightblock-omega.vercel.app/)
 
@@ -11,7 +11,7 @@
 
 ## About the Project
 
-LightBlock is a user-friendly blockchain app manager for **Lightink** blockchain. It enables effortless creation, deployment, management, and analysis of smart contracts for both beginners and expert blockchain engineers. 
+LightBlock is a user-friendly blockchain app builder and manager for **Lightink** blockchain. It enables effortless creation, deployment, management, and analysis of smart contracts for both beginners and expert blockchain engineers. 
 
 With no-code templates, multiple wallet integrations, and robust analytics, it caters to both beginners and advanced users, democratizing access to blockchain technology and paving the way for a more decentralized digital future.
 
@@ -43,6 +43,7 @@ With no-code templates, multiple wallet integrations, and robust analytics, it c
 - Link multiple wallets
 - App version management
 - Contract Analytics and Insights
+- Frontend templates
 
 ## Business Model
 
