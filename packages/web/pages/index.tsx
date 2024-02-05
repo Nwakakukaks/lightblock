@@ -129,9 +129,9 @@ const MainLanding: NextPage = () => {
             </Col>
             <Col xs={12} sm={6} md={6} lg={3} className="feature-card template">
               <Card body>
-                <Card.Title>Supply Chain Management</Card.Title>
+                <Card.Title>Crowdsale</Card.Title>
                 <Card.Subtitle className="mb-2">
-                  Track and verify products at each stage of a supply chain.
+                  Raise funds by selling off ERC20 tokens or NFTS to investors 
                 </Card.Subtitle>
               </Card>
             </Col>
