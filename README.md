@@ -1,5 +1,8 @@
 # LightBlock - Built at Lightlink gasless hackathon '24
 
+## Enterprise mode deployment
+0x74229971e39a85095966e33ffdcc615c882f1dfa90006366bc88b0bee2d8a37b
+
 ## LightBlock simplifies creating, compiling, deploying and managing smart contracts.
 
 **Project Goal**: Building on web3 is hard, building robust and secure Dapps a lot more harder. We wanted to give anyone the ability to quickly build, test and ship their Dapps ontop lightlink regardless of their skill level.
