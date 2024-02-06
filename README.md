@@ -114,6 +114,14 @@ While we strive to keep the majority of features free so anyone can experience a
 - Public outreach and marketing
 - Launch of complete and stable version on mainnet
 
+## Forward Deployment 
+
+ALl our dapp templates have been deployed and listed on forward marketplace, available for developers to use to get started building their Dapps
+
+<p align="center">
+    <img width="600px" src="docs/screenshots/forward.png" alt="Intro Screenshot">
+</p>
+
 ## Screenshots
 
 <p align="center">
