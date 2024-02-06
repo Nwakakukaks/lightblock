@@ -1,6 +1,6 @@
 # LightBlock - Built at Lightlink gasless hackathon '24
 
-## Enterprise mode deployment
+## Lightlink Enterprise mode deployment
 0x74229971e39a85095966e33ffdcc615c882f1dfa90006366bc88b0bee2d8a37b
 
 ## LightBlock simplifies creating, compiling, deploying and managing smart contracts.
@@ -119,7 +119,7 @@ While we strive to keep the majority of features free so anyone can experience a
 
 ## Forward Deployment 
 
-ALl our dapp templates have been deployed and listed on forward marketplace, available for developers to use to get started building their Dapps
+All our dapp templates have been deployed and listed on forward marketplace, available for developers to use to get started building their Dapps
 
 <p align="center">
     <img width="600px" src="docs/screenshots/forward.png" alt="Intro Screenshot">
